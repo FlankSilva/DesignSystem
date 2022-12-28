@@ -11,16 +11,13 @@ export default {
       return (
         <Box css={{ gap: '$2' }}>
           {Story()}
-          <Text size='sm'>
-            Accept terms of use
-          </Text>
+          <Text size="sm">Accept terms of use</Text>
         </Box>
       )
-    }
-  ]
- 
+    },
+  ],
 } as Meta<CheckboxProps>
 
 export const Primary: StoryObj<CheckboxProps> = {
-  args: {}
+  args: {},
 }

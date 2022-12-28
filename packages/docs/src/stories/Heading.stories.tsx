@@ -7,17 +7,16 @@ export default {
 
   args: {
     children: 'Custon title...',
-    size: 'md'
+    size: 'md',
   },
   argTypes: {
     size: {
       options: ['sm', 'md', 'lg', '2xl', '4xl', '5xl', '6xl'],
       control: {
-        type: 'select'
-      }
+        type: 'select',
+      },
     },
-  }
- 
+  },
 } as Meta<HeadingProps>
 
 export const Primary: StoryObj<HeadingProps> = {}
@@ -30,8 +29,9 @@ export const CustomTag: StoryObj<HeadingProps> = {
   parameters: {
     docs: {
       description: {
-        story: 'Por padrão o heading sempre será um `h2`, mas podemos alterar isso com a propriedade `as`.'
-      }
-    }
-  }
+        story:
+          'Por padrão o heading sempre será um `h2`, mas podemos alterar isso com a propriedade `as`.',
+      },
+    },
+  },
 }
