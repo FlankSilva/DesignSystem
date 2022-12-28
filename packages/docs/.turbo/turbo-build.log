@@ -11,116 +11,116 @@ info => Compiling manager..
 info => Loading custom manager config
 [36mvite v3.2.5 [32mbuilding for production...[36m[39m
 transforming...
-info => Manager built (1.27 min)
+info => Manager built (1.55 min)
 Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
 Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
 Use of eval is strongly discouraged, as it poses security risks and may cause issues with minification
 [32m✓[39m 2532 modules transformed.
 rendering chunks...
-[90m[37m[2mstorybook-static/[22m[90m[39m[32miframe.html                                         [39m [2m13.52 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/es.map.constructor.dce1eb1c.js               [39m [2m0.24 KiB / gzip: 0.20 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/es.map.constructor.dce1eb1c.js.map           [39m [2m0.75 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/string.229c7aa2.js                           [39m [2m0.36 KiB / gzip: 0.28 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/string.229c7aa2.js.map                       [39m [2m1.08 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/jsx-runtime.139d5fff.js                      [39m [2m1.06 KiB / gzip: 0.65 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/jsx-runtime.139d5fff.js.map                  [39m [2m2.12 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.fa5bae52.js                            [39m [2m7.21 KiB / gzip: 2.95 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.fa5bae52.js.map                        [39m [2m15.35 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/config.cee397db.js                           [39m [2m5.87 KiB / gzip: 2.33 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/config.cee397db.js.map                       [39m [2m20.26 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.ff240cd7.js                          [39m [2m0.78 KiB / gzip: 0.48 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.ff240cd7.js.map                      [39m [2m7.27 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/make-decorator.c6783f50.js                   [39m [2m0.84 KiB / gzip: 0.49 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/make-decorator.c6783f50.js.map               [39m [2m2.99 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.39a0ad46.js                          [39m [2m1.85 KiB / gzip: 0.67 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.39a0ad46.js.map                      [39m [2m4.19 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.350b68a4.js                          [39m [2m4.47 KiB / gzip: 1.72 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.350b68a4.js.map                      [39m [2m16.78 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.4dbcfbbf.js                          [39m [2m9.52 KiB / gzip: 3.34 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.4dbcfbbf.js.map                      [39m [2m38.45 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/es.number.to-fixed.5227a2b7.js               [39m [2m1.65 KiB / gzip: 1.00 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/es.number.to-fixed.5227a2b7.js.map           [39m [2m8.00 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.e217b9c1.js                          [39m [2m7.96 KiB / gzip: 1.66 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.e217b9c1.js.map                      [39m [2m16.87 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.a36fd821.js                          [39m [2m0.33 KiB / gzip: 0.25 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.a36fd821.js.map                      [39m [2m0.54 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.0e63a4cf.js                          [39m [2m10.17 KiB / gzip: 3.94 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.0e63a4cf.js.map                      [39m [2m42.64 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/home.stories.29bc45af.js                     [39m [2m1.19 KiB / gzip: 0.70 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/home.stories.29bc45af.js.map                 [39m [2m1.16 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.1de37447.js                          [39m [2m26.36 KiB / gzip: 8.32 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.1de37447.js.map                      [39m [2m102.60 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/colors.stories.e92e1ac1.js                   [39m [2m9.26 KiB / gzip: 3.94 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/colors.stories.e92e1ac1.js.map               [39m [2m142.54 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[32miframe.html                                         [39m [2m13.54 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/es.map.constructor.52279b0f.js               [39m [2m0.24 KiB / gzip: 0.20 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/es.map.constructor.52279b0f.js.map           [39m [2m0.75 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/jsx-runtime.5d666d19.js                      [39m [2m1.06 KiB / gzip: 0.65 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/jsx-runtime.5d666d19.js.map                  [39m [2m2.12 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/string.c2418d42.js                           [39m [2m0.36 KiB / gzip: 0.28 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/string.c2418d42.js.map                       [39m [2m1.08 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.86e21970.js                            [39m [2m7.21 KiB / gzip: 2.95 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.86e21970.js.map                        [39m [2m15.35 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/config.9d92959c.js                           [39m [2m5.87 KiB / gzip: 2.33 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/config.9d92959c.js.map                       [39m [2m20.26 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.45ba51f1.js                          [39m [2m0.78 KiB / gzip: 0.48 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.45ba51f1.js.map                      [39m [2m7.27 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/make-decorator.4c98f744.js                   [39m [2m0.84 KiB / gzip: 0.49 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/make-decorator.4c98f744.js.map               [39m [2m2.99 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.3f589c09.js                          [39m [2m1.85 KiB / gzip: 0.68 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.3f589c09.js.map                      [39m [2m4.19 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.77245a47.js                          [39m [2m4.47 KiB / gzip: 1.71 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.77245a47.js.map                      [39m [2m16.78 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.1e348255.js                          [39m [2m9.52 KiB / gzip: 3.34 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.1e348255.js.map                      [39m [2m38.45 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/es.number.to-fixed.4b5dbf71.js               [39m [2m1.65 KiB / gzip: 1.00 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/es.number.to-fixed.4b5dbf71.js.map           [39m [2m8.00 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.a76c8f10.js                          [39m [2m7.96 KiB / gzip: 1.66 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.a76c8f10.js.map                      [39m [2m16.87 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.7aeb25e8.js                          [39m [2m0.33 KiB / gzip: 0.25 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.7aeb25e8.js.map                      [39m [2m0.54 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.d2a287f2.js                          [39m [2m10.17 KiB / gzip: 3.93 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.d2a287f2.js.map                      [39m [2m42.64 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/home.stories.6c6a89ec.js                     [39m [2m1.19 KiB / gzip: 0.70 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/home.stories.6c6a89ec.js.map                 [39m [2m1.16 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/preview.67a47674.js                          [39m [2m26.36 KiB / gzip: 8.32 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/preview.67a47674.js.map                      [39m [2m102.60 KiB[22m
 [90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.3b4b6d3f.js                            [39m [2m0.86 KiB / gzip: 0.45 KiB[22m
 [90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.3b4b6d3f.js.map                        [39m [2m2.43 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/font-sizes.stories.51ebb3cf.js               [39m [2m1.31 KiB / gzip: 0.74 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/font-sizes.stories.51ebb3cf.js.map           [39m [2m1.38 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/TokensGrid.4a5b4700.js                       [39m [2m1.06 KiB / gzip: 0.54 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/TokensGrid.4a5b4700.js.map                   [39m [2m1.62 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/font-weights.stories.eae6bb52.js             [39m [2m1.31 KiB / gzip: 0.73 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/font-weights.stories.eae6bb52.js.map         [39m [2m1.37 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/fonts.stories.787d18d5.js                    [39m [2m1.29 KiB / gzip: 0.73 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/fonts.stories.787d18d5.js.map                [39m [2m1.32 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/line-height.stories.b1d24055.js              [39m [2m1.31 KiB / gzip: 0.73 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/line-height.stories.b1d24055.js.map          [39m [2m1.37 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/radii.stories.e20187ea.js                    [39m [2m1.29 KiB / gzip: 0.73 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/radii.stories.e20187ea.js.map                [39m [2m1.32 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Avatar.stories.5d2d609f.js                   [39m [2m0.44 KiB / gzip: 0.30 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Avatar.stories.5d2d609f.js.map               [39m [2m0.10 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/space.stories.8c030871.js                    [39m [2m1.30 KiB / gzip: 0.74 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/space.stories.8c030871.js.map                [39m [2m1.35 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Box.stories.086781cf.js                      [39m [2m0.41 KiB / gzip: 0.27 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Box.stories.086781cf.js.map                  [39m [2m0.10 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Button.stories.bd7f21ee.js                   [39m [2m0.71 KiB / gzip: 0.38 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Button.stories.bd7f21ee.js.map               [39m [2m0.10 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Checkbox.stories.09788c48.js                 [39m [2m0.42 KiB / gzip: 0.29 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Checkbox.stories.09788c48.js.map             [39m [2m0.11 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Heading.stories.d2720418.js                  [39m [2m0.61 KiB / gzip: 0.40 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Heading.stories.d2720418.js.map              [39m [2m0.11 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/MultiStep.stories.cf3490b7.js                [39m [2m0.46 KiB / gzip: 0.31 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/MultiStep.stories.cf3490b7.js.map            [39m [2m0.11 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Text.stories.3d22514f.js                     [39m [2m0.52 KiB / gzip: 0.33 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Text.stories.3d22514f.js.map                 [39m [2m0.10 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/TextArea.stories.e4dcee1f.js                 [39m [2m0.59 KiB / gzip: 0.37 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/TextArea.stories.e4dcee1f.js.map             [39m [2m0.11 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/TextInput.stories.03296254.js                [39m [2m0.57 KiB / gzip: 0.36 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/TextInput.stories.03296254.js.map            [39m [2m0.11 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/client.0219ac25.js                           [39m [2m0.67 KiB / gzip: 0.42 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/client.0219ac25.js.map                       [39m [2m0.89 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/renderDocs.1e4961ff.js                       [39m [2m2.65 KiB / gzip: 1.29 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/renderDocs.1e4961ff.js.map                   [39m [2m9.54 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.acf9d01d.js                            [39m [2m2.49 KiB / gzip: 1.22 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.acf9d01d.js.map                        [39m [2m5.96 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/es.string.from-code-point.4ef54eaa.js        [39m [2m0.52 KiB / gzip: 0.39 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/es.string.from-code-point.4ef54eaa.js.map    [39m [2m2.13 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/es.regexp.flags.71d637d0.js                  [39m [2m0.60 KiB / gzip: 0.42 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/es.regexp.flags.71d637d0.js.map              [39m [2m2.68 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/GlobalScrollAreaStyles-8793ce4a.5b761a16.js  [39m [2m10.33 KiB / gzip: 2.36 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/GlobalScrollAreaStyles-8793ce4a.5b761a16.js.map[39m [2m20.39 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.c7dfeb30.js                            [39m [2m38.40 KiB / gzip: 13.58 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.c7dfeb30.js.map                        [39m [2m139.25 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/WithTooltip-167e9982.0fedbc3c.js             [39m [2m40.44 KiB / gzip: 13.54 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/WithTooltip-167e9982.0fedbc3c.js.map         [39m [2m176.40 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/font-sizes.stories.aaf2feac.js               [39m [2m1.31 KiB / gzip: 0.75 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/font-sizes.stories.aaf2feac.js.map           [39m [2m1.38 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/TokensGrid.c1c27208.js                       [39m [2m1.06 KiB / gzip: 0.54 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/TokensGrid.c1c27208.js.map                   [39m [2m1.62 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/font-weights.stories.eb362199.js             [39m [2m1.31 KiB / gzip: 0.74 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/font-weights.stories.eb362199.js.map         [39m [2m1.37 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/colors.stories.e6b3c946.js                   [39m [2m9.26 KiB / gzip: 3.94 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/colors.stories.e6b3c946.js.map               [39m [2m142.54 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/fonts.stories.f052f354.js                    [39m [2m1.29 KiB / gzip: 0.73 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/fonts.stories.f052f354.js.map                [39m [2m1.32 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/line-height.stories.4b2ed902.js              [39m [2m1.31 KiB / gzip: 0.74 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/line-height.stories.4b2ed902.js.map          [39m [2m1.37 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/space.stories.8d269c79.js                    [39m [2m1.30 KiB / gzip: 0.75 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/space.stories.8d269c79.js.map                [39m [2m1.35 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/radii.stories.acc84390.js                    [39m [2m1.29 KiB / gzip: 0.73 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/radii.stories.acc84390.js.map                [39m [2m1.32 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Avatar.stories.290c9b43.js                   [39m [2m0.44 KiB / gzip: 0.30 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Avatar.stories.290c9b43.js.map               [39m [2m0.10 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Button.stories.de2321b8.js                   [39m [2m0.71 KiB / gzip: 0.38 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Button.stories.de2321b8.js.map               [39m [2m0.10 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Box.stories.a292c5dd.js                      [39m [2m0.41 KiB / gzip: 0.27 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Box.stories.a292c5dd.js.map                  [39m [2m0.10 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Checkbox.stories.717c6b1c.js                 [39m [2m0.42 KiB / gzip: 0.29 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Checkbox.stories.717c6b1c.js.map             [39m [2m0.11 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Heading.stories.4b17452c.js                  [39m [2m0.61 KiB / gzip: 0.40 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Heading.stories.4b17452c.js.map              [39m [2m0.11 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/MultiStep.stories.488600d0.js                [39m [2m0.46 KiB / gzip: 0.31 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/MultiStep.stories.488600d0.js.map            [39m [2m0.11 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Text.stories.2da90169.js                     [39m [2m0.52 KiB / gzip: 0.33 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Text.stories.2da90169.js.map                 [39m [2m0.10 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/TextArea.stories.6cef8202.js                 [39m [2m0.59 KiB / gzip: 0.37 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/TextArea.stories.6cef8202.js.map             [39m [2m0.11 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/TextInput.stories.1c70fd07.js                [39m [2m0.57 KiB / gzip: 0.36 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/TextInput.stories.1c70fd07.js.map            [39m [2m0.11 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/client.b18b0354.js                           [39m [2m0.67 KiB / gzip: 0.42 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/client.b18b0354.js.map                       [39m [2m0.89 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/renderDocs.4280e2fb.js                       [39m [2m2.65 KiB / gzip: 1.29 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/renderDocs.4280e2fb.js.map                   [39m [2m9.54 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.707bdce1.js                            [39m [2m2.49 KiB / gzip: 1.22 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.707bdce1.js.map                        [39m [2m5.96 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/es.string.from-code-point.c8184265.js        [39m [2m0.52 KiB / gzip: 0.38 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/es.string.from-code-point.c8184265.js.map    [39m [2m2.13 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/es.regexp.flags.f6eec161.js                  [39m [2m0.60 KiB / gzip: 0.42 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/es.regexp.flags.f6eec161.js.map              [39m [2m2.68 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/GlobalScrollAreaStyles-8793ce4a.0781affc.js  [39m [2m10.33 KiB / gzip: 2.37 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/GlobalScrollAreaStyles-8793ce4a.0781affc.js.map[39m [2m20.39 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.8f9ccf2a.js                            [39m [2m38.40 KiB / gzip: 13.58 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.8f9ccf2a.js.map                        [39m [2m139.25 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Color-f953d088.d714c82b.js                   [39m [2m33.86 KiB / gzip: 12.77 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Color-f953d088.d714c82b.js.map               [39m [2m129.52 KiB[22m
 [90m[37m[2mstorybook-static/[22m[90m[39m[35massets/TokensGrid.37594f72.css                      [39m [2m0.42 KiB / gzip: 0.22 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Color-f953d088.deb90b84.js                   [39m [2m33.86 KiB / gzip: 12.77 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Color-f953d088.deb90b84.js.map               [39m [2m129.52 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.942a20d3.js                            [39m [2m59.72 KiB / gzip: 21.77 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.942a20d3.js.map                        [39m [2m266.70 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/OverlayScrollbars-1355f44c.4d7001c2.js       [39m [2m63.21 KiB / gzip: 26.82 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/OverlayScrollbars-1355f44c.4d7001c2.js.map   [39m [2m430.15 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.5bfd7bc2.js                            [39m [2m135.69 KiB / gzip: 44.59 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.5bfd7bc2.js.map                        [39m [2m327.51 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/syntaxhighlighter-b07b042a.e2961f11.js       [39m [2m125.90 KiB / gzip: 47.90 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/syntaxhighlighter-b07b042a.e2961f11.js.map   [39m [2m455.28 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/config.89413c56.js                           [39m [2m303.53 KiB / gzip: 89.02 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/config.89413c56.js.map                       [39m [33m1084.20 KiB[39m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Props.91a463b7.js                            [39m [2m411.48 KiB / gzip: 121.21 KiB[22m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Props.91a463b7.js.map                        [39m [33m880.39 KiB[39m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/iframe.6d3a76f0.js                           [39m [33m508.55 KiB / gzip: 141.50 KiB[39m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/iframe.6d3a76f0.js.map                       [39m [33m1399.22 KiB[39m
-[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/formatter-0d5cb0eb.6bafe977.js               [39m [33m740.91 KiB / gzip: 234.00 KiB[39m
-[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/formatter-0d5cb0eb.6bafe977.js.map           [39m [33m1741.89 KiB[39m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/WithTooltip-167e9982.6de2de1c.js             [39m [2m40.44 KiB / gzip: 13.54 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/WithTooltip-167e9982.6de2de1c.js.map         [39m [2m176.40 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.41144482.js                            [39m [2m59.72 KiB / gzip: 21.77 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.41144482.js.map                        [39m [2m266.70 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/OverlayScrollbars-1355f44c.60c45da3.js       [39m [2m63.21 KiB / gzip: 26.83 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/OverlayScrollbars-1355f44c.60c45da3.js.map   [39m [2m430.15 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/index.84c1e79a.js                            [39m [2m135.69 KiB / gzip: 44.59 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/index.84c1e79a.js.map                        [39m [2m327.51 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/syntaxhighlighter-b07b042a.633e8216.js       [39m [2m125.90 KiB / gzip: 47.90 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/syntaxhighlighter-b07b042a.633e8216.js.map   [39m [2m455.28 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/config.e48eea29.js                           [39m [2m303.53 KiB / gzip: 89.02 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/config.e48eea29.js.map                       [39m [33m1084.20 KiB[39m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/Props.6b408f04.js                            [39m [2m411.48 KiB / gzip: 121.21 KiB[22m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/Props.6b408f04.js.map                        [39m [33m880.39 KiB[39m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/iframe.eac82e2c.js                           [39m [33m508.56 KiB / gzip: 141.51 KiB[39m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/iframe.eac82e2c.js.map                       [39m [33m1399.22 KiB[39m
+[90m[37m[2mstorybook-static/[22m[90m[39m[36massets/formatter-0d5cb0eb.ddda2a53.js               [39m [33m740.91 KiB / gzip: 234.00 KiB[39m
+[90m[37m[2mstorybook-static/[22m[90m[39m[90massets/formatter-0d5cb0eb.ddda2a53.js.map           [39m [33m1741.89 KiB[39m
 [33m
 (!) Some chunks are larger than 500 KiB after minification. Consider:
 - Using dynamic import() to code-split the application
