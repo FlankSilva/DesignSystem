@@ -1,0 +1,2 @@
+import{T as t}from"./index.a71e4756.js";import"./index.d58b806c.js";import"./iframe.b659ad0b.js";import"./jsx-runtime.b92fd2b1.js";import"./index.9e90831d.js";const x={title:"Typography/Text",component:t,args:{children:"Lorem ipsum, dolor...",size:"md"},argTypes:{size:{options:["xxs","xs","sm","md","lg","xl","2xl","4xl","5xl","6xl","7xl","8xl","9xl"],control:{type:"select"}}}},l={},i={args:{children:"Strong text",as:"strong"}},p=["Primary","CustomTag"];export{i as CustomTag,l as Primary,p as __namedExportsOrder,x as default};
+//# sourceMappingURL=Text.stories.a06b6c94.js.map

@@ -1,0 +1,2 @@
+import{M as o,T as e}from"./index.a71e4756.js";import{j as r,F as t}from"./jsx-runtime.b92fd2b1.js";import"./index.d58b806c.js";import"./iframe.b659ad0b.js";import"./index.9e90831d.js";const d={title:"Surfaces/Modal",component:o,args:{children:r(t,{children:r(e,{children:"Testando elemento Modal"})}),isOpenModal:"open"},argTypes:{children:{control:{type:null}}}},m={args:{width:"400px"}},p=["Primary"];export{m as Primary,p as __namedExportsOrder,d as default};
+//# sourceMappingURL=Modal.stories.0a9858e5.js.map
