@@ -6,40 +6,36 @@ export default {
   component: TextInput,
 
   args: {},
-  
- 
 } as Meta<TextInputProps>
 
 export const Primary: StoryObj<TextInputProps> = {
   args: {
-    placeholder: 'Type your name'
-  }
+    placeholder: 'Type your name',
+  },
 }
 
 export const Disabled: StoryObj<TextInputProps> = {
   args: {
-    disabled: true
-  }
+    disabled: true,
+  },
 }
 
 export const WithPrefix: StoryObj<TextInputProps> = {
   args: {
-    prefix: 'cal.com'
-  }
+    prefix: 'cal.com',
+  },
 }
 
-export const InsideABox:StoryObj<TextInputProps> = {
+export const InsideABox: StoryObj<TextInputProps> = {
   args: {},
   decorators: [
     (Story) => {
       return (
         <Box>
-          <Text size='sm'>
-            Username
-          </Text>
+          <Text size="sm">Username</Text>
           {Story()}
         </Box>
       )
-    }
-  ]
+    },
+  ],
 }

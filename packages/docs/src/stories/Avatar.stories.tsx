@@ -7,22 +7,22 @@ export default {
 
   args: {
     src: 'https://github.com/flanksilva.png',
-    alt: 'Flank Silva'
+    alt: 'Flank Silva',
   },
 
   argTypes: {
     src: {
       control: {
-        type: 'text'
-      }
-    }
-  }
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
 
 export const WithFallback: StoryObj<AvatarProps> = {
   args: {
-    src: undefined
-  }
+    src: undefined,
+  },
 }

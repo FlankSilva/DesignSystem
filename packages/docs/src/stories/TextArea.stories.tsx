@@ -6,41 +6,36 @@ export default {
   component: TextArea,
 
   args: {},
-  
- 
 } as Meta<TextAreaProps>
 
 export const Primary: StoryObj<TextAreaProps> = {
   args: {
-    placeholder: 'Type your description'
-  }
+    placeholder: 'Type your description',
+  },
 }
 
 export const Disabled: StoryObj<TextAreaProps> = {
   args: {
-    disabled: true
-  }
+    disabled: true,
+  },
 }
 
 export const WithPrefix: StoryObj<TextAreaProps> = {
   args: {
-    prefix: 'cal.com'
-  }
+    prefix: 'cal.com',
+  },
 }
 
-
-export const InsideABox:StoryObj<TextAreaProps> = {
+export const InsideABox: StoryObj<TextAreaProps> = {
   args: {},
   decorators: [
     (Story) => {
       return (
         <Box as="label">
-          <Text size='sm'>
-            Description
-          </Text>
+          <Text size="sm">Description</Text>
           {Story()}
         </Box>
       )
-    }
-  ]
+    },
+  ],
 }
