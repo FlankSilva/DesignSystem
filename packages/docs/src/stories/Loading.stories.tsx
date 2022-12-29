@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Loading, LoadingProps } from '@ignite-ui/react'
+import { Loading, LoadingProps } from '@flank-ignite-ui/react'
 
 export default {
   title: 'Surfaces/Loading',

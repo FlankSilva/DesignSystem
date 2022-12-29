@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Modal, ModalProps, Text } from '@ignite-ui/react'
+import { Modal, ModalProps, Text } from '@flank-ignite-ui/react'
 
 export default {
   title: 'Surfaces/Modal',

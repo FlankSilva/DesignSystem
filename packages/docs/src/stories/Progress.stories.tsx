@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Progress, ProgressProps } from '@ignite-ui/react'
+import { Progress, ProgressProps } from '@flank-ignite-ui/react'
 
 export default {
   title: 'Surfaces/Progress',

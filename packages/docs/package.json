@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@flank-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -27,9 +27,9 @@
     "vite": "^4.0.3"
   },
   "dependencies": {
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@flank-ignite-ui/react": "*",
+    "@flank-ignite-ui/tokens": "*",
+    "@flank-ignite-ui/ts-config": "*",
     "polished": "^4.2.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"

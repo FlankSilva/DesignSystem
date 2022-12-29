@@ -1,5 +1,5 @@
 import type { StoryObj, Meta } from '@storybook/react'
-import { Table, TableProps } from '@ignite-ui/react'
+import { Table, TableProps } from '@flank-ignite-ui/react'
 
 export default {
   title: 'Surfaces/Table',
